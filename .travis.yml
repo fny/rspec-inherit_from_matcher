@@ -1,0 +1,6 @@
+language: ruby
+
+script: 'rake spec'
+
+rvm:
+  - 2.2.1
